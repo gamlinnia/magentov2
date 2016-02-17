@@ -9,3 +9,4 @@ atlassian*
 /.idea
 /.gitattributes
 /var
+/app/etc/env.php
