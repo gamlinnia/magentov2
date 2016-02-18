@@ -46,6 +46,7 @@ return array(
     'Seld\\JsonLint\\' => array($vendorDir . '/seld/jsonlint/src/Seld/JsonLint'),
     'Pelago\\' => array($vendorDir . '/pelago/emogrifier/Classes'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'Migration\\' => array($vendorDir . '/magento/data-migration-tool/src/Migration', $vendorDir . '/magento/data-migration-tool/tests/unit/testsuite/Migration'),
     'Magento\\Wishlist\\' => array($vendorDir . '/magento/module-wishlist'),
     'Magento\\WishlistSampleData\\' => array($vendorDir . '/magento/module-wishlist-sample-data'),
     'Magento\\Widget\\' => array($vendorDir . '/magento/module-widget'),
